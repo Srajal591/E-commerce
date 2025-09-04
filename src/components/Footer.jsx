@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer className="bg-gray-100 py-12 mt-auto">
       <div className="container mx-auto text-center text-gray-600">
-        <p>&copy; 2025 NeoShop. All rights reserved.</p>
+        <p>&copy; 2025 Crimson & Clover . All rights reserved.</p>
         <p>Designed with ❤️ using React & Tailwind CSS</p>
       </div>
     </footer>

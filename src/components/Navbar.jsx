@@ -6,7 +6,7 @@ function Navbar({ cartCount, openCart }) {
       <h1 className="flex items-center">
   <img 
     src="/logo.png" 
-    alt="NeoShop Logo" 
+    alt="Crimson & Clover Logo" 
     className="h-15 w-auto ml-5 " 
   />
 </h1>
